@@ -556,7 +556,7 @@ body{
 }
 .logo-link{
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     gap: 0.8rem;
     font-size: 1.28rem;
